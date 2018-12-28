@@ -1,0 +1,17 @@
+Oscar OK:
+  type      : person # "person" (default), "organization"
+  name      : Oscar Ordoñez
+  url       : https://oscarok.github.io/
+  avatar    : https://avatars2.githubusercontent.com/u/16791898?s=400&u=8d513c338880c05ce1fd050ba5a774268b03c123&v=4 # path or url of avatar image
+  bio       : Hi! I'm Oscar a simple Computer Science student.
+  email     : oscareom1@gmail.com
+  facebook  : # "user_name" the last part of your profile url, e.g. https://www.facebook.com/user_name
+  twitter   : oscar_ok19 # "user_name" the last part of your profile url, e.g. https://twitter.com/user_name
+  instagram : oscar_ok19
+  googleplus: # "user_id"   the last part of your profile url, e.g. https://plus.google.com/u/0/user_id
+  weibo     : # "user_id"   the last part of your profile url, e.g. https://www.weibo.com/user_id/profile?...
+  douban    : # "user_name" the last part of your profile url, e.g. https://www.douban.com/people/user_name/
+  linkedin  : oscar-ordoñez-a42791176 # "user_name" the last part of your profile url, e.g. https://www.linkedin.com/in/user_name/
+  github    : OscarOK # "user_name" the last part of your profile url, e.g. https://github.com/user_name
+  npm       : # "user_name" the last part of your profile url, e.g. https://www.npmjs.com/~user_name
+  telegram  : # "user_name" the last part of your profile url, e.g. https://t.me/user_name

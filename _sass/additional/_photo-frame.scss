@@ -1,17 +1,21 @@
 .article__content {
-  img.shadow, .shadow > img {
-    @include box-shadow();
-  }
+    .shadow > img,
+    img.shadow {
+        @include box-shadow();
+    }
 
-  img.border, .border > img {
-    border: 1px solid $border-color-l;
-  }
+    .border > img,
+    img.border {
+        border: 1px solid $border-color-l;
+    }
 
-  img.rounded, .rounded > img {
-    border-radius: map-get($base, border-radius);
-  }
+    .rounded > img,
+    img.rounded {
+        border-radius: map-get($base, border-radius);
+    }
 
-  img.circle, .circle > img {
-    border-radius: 50%;
-  }
+    .circle > img,
+    img.circle {
+        border-radius: 50%;
+    }
 }
