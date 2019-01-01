@@ -11,6 +11,7 @@ article_header:
   background_image:
     gradient: 'linear-gradient(160deg, rgba(144,176,97,.5), rgba(41,45,52,.5))'
     src: /assets/images/2018-12-31-my-text-editor-setup/cover.png
+tags: atom setup
 ---
 
 I use ***Atom*** as my text editor, so let me show you my selection of themes and packages, including settings that I prefer to use.
@@ -44,7 +45,7 @@ This is the _number of spaces_ to represent a tab, for my personal likeness I wi
 ### Scroll Past End
 This simple setting allows the editor to scroll past the end of the last line of the document. This makes more _comfortable_ the reading and working process, let me show you the difference.
 
-<div class="card card--center" style="width:70%">
+<div class="card card--center" style="width:70%;">
   <div class="card__image">
     <img class="image" src="/assets/images/2018-12-31-my-text-editor-setup/off-on-scroll-past-end.png"/>
     <div class="overlay overlay--bottom">
@@ -56,7 +57,7 @@ This simple setting allows the editor to scroll past the end of the last line of
 ### Show Indent Guide
 Basically show the indentation of the file, which allows me to recognize faster the code structure, perhaps a Python code.
 
-<div class="card card--center" style="width:70%">
+<div class="card card--center" style="width:70%;">
   <div class="card__image">
     <img class="image" src="/assets/images/2018-12-31-my-text-editor-setup/off-on-indent-guide.png"/>
     <div class="overlay overlay--bottom">
