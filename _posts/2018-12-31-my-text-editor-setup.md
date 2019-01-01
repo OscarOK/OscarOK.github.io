@@ -59,7 +59,7 @@ Basically show the indentation of the file, which allows me to recognize faster 
 
 <div class="card card--center" style="width:70%;">
   <div class="card__image">
-    <img class="image" src="/assets/images/2018-12-31-my-text-editor-setup/off-on-indent-guide.png"/>
+    <img class="image" src="/assets/images/2018-12-31-my-text-editor-setup/off-on-indent-guide.PNG"/>
     <div class="overlay overlay--bottom">
       <p>OFF/ON Indent Guide</p>
     </div>
@@ -150,11 +150,11 @@ Well, this is the way I set up my text editor. Now with this, I will remember al
 
 <!-- Image references -->
 [fira_code]: /assets/images/2018-12-31-my-text-editor-setup/fira-code.png
-[theme]: /assets/images/2018-12-31-my-text-editor-setup/theme.png
-[syntax]: /assets/images/2018-12-31-my-text-editor-setup/syntax.png
-[atom_beautify]: /assets/images/2018-12-31-my-text-editor-setup/before-after-beautify.png
-[color_picker]: /assets/images/2018-12-31-my-text-editor-setup/color-picker.png
+[theme]: /assets/images/2018-12-31-my-text-editor-setup/theme.PNG
+[syntax]: /assets/images/2018-12-31-my-text-editor-setup/syntax.PNG
+[atom_beautify]: /assets/images/2018-12-31-my-text-editor-setup/before-after-beautify.PNG
+[color_picker]: /assets/images/2018-12-31-my-text-editor-setup/color-picker.PNG
 [file_icons]: /assets/images/2018-12-31-my-text-editor-setup/file-icons.png
-[minimap]: /assets/images/2018-12-31-my-text-editor-setup/minimap.png
-[pigments]: /assets/images/2018-12-31-my-text-editor-setup/pigments.png
-[script]: /assets/images/2018-12-31-my-text-editor-setup/script.png
+[minimap]: /assets/images/2018-12-31-my-text-editor-setup/minimap.PNG
+[pigments]: /assets/images/2018-12-31-my-text-editor-setup/pigments.PNG
+[script]: /assets/images/2018-12-31-my-text-editor-setup/script.PNG
