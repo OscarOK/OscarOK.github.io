@@ -1,6 +1,6 @@
 
 .card {
-  max-width: 18rem;
+
   border-radius: map-get($base, border-radius);
   @include box-shadow();
   @include transition(box-shadow map-get($animation, duration) map-get($animation, timing-function));
@@ -12,6 +12,12 @@
     border-bottom-right-radius: map-get($base, border-radius);
     border-bottom-left-radius: map-get($base, border-radius);
   }
+}
+
+.card--center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .cell {
@@ -68,11 +74,11 @@ a.card__header, .card__header > a {
   }
   & > .overlay, & > .overlay--dark {
     @extend .text--dark;
-    background-color: rgba(#000, .4);
+    background-color: rgba(#000, .5);
   }
   & > .overlay--light {
     @extend .text--light;
-    background: rgba(#fff, .4);
+    background: rgba(#fff, .5);
   }
 }
 

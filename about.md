@@ -5,8 +5,8 @@ titles:
   en: About me
 key: page-about
 ---
-<p style="text-align: center; font-size:1.25em; font-weight: bold;">
-I want to share everything I have learned and what I'm learning with anyone who is charmed by experimenting with new things that have challenges and emotions in their development. Feel free to join me in this adventure.
+<p style="text-align: center; font-size:1.25em; font-weight: bold; font-style:italic;">
+"I want to share everything I have learned and what I'm learning with anyone who is charmed by experimenting with new things that have challenges and emotions in their development. Feel free to join me in this adventure."
 </p>
 
 <!-- TODO: Use Linkedin image profile -->
