@@ -86,4 +86,4 @@ This is my journal for this 2019, I hope it was helpful and inspiring for you. H
 [agenda]: /assets/images/2019-01-31-my-bullet-journal/agenda.jpg
 [sketch]: /assets/images/2019-01-31-my-bullet-journal/skecth.jpg
 [year_pixels]: /assets/images/2019-01-31-my-bullet-journal/year_pixels.PNG
-[habit]: /assets/images/2019-01-31-my-bullet-journal/habits_tracker.PNG
+[habit]: /assets/images/2019-01-31-my-bullet-journal/habit_tracker.PNG
