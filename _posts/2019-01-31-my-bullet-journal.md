@@ -10,7 +10,7 @@ article_header:
   background_color: '#203028'
   background_image:
     gradient: 'linear-gradient(160deg, rgba(144,176,97,.5), rgba(41,45,52,.5))'
-    src: /assets/images/2019-1-31-my-bullet-journal/header.jpg
+    src: /assets/images/2019-01-31-my-bullet-journal/header.jpg
 ---
 
 Since the first months of 2018, I started using an agenda to organize all my pending events and tasks. As a result, I became more "productive" and "tidy" with my methodology to have things done, I even started to use Calendar by Google for scheduling the events that come up on the week. These habits make me feel like a grown-up man, but a one well organized.
@@ -79,11 +79,11 @@ The interesting part here, is that I have a tracker for daily, weekly and monthl
 This is my journal for this 2019, I hope it was helpful and inspiring for you. Happy new year.
 
 [1]: (https://bulletjournal.com/)
-[journal_cover]: /assets/images/2019-1-31-my-bullet-journal/cover.jpg
-[personal_info]: /assets/images/2019-1-31-my-bullet-journal/personal_info.jpg
-[key]: /assets/images/2019-1-31-my-bullet-journal/key.jpg
-[future_log]: /assets/images/2019-1-31-my-bullet-journal/future_log.jpg
-[agenda]: /assets/images/2019-1-31-my-bullet-journal/agenda.jpg
-[sketch]: /assets/images/2019-1-31-my-bullet-journal/skecth.jpg
-[year_pixels]: /assets/images/2019-1-31-my-bullet-journal/year_pixels.PNG
-[habit]: /assets/images/2019-1-31-my-bullet-journal/habits_tracker.PNG
+[journal_cover]: /assets/images/2019-01-31-my-bullet-journal/cover.jpg
+[personal_info]: /assets/images/2019-01-31-my-bullet-journal/personal_info.jpg
+[key]: /assets/images/2019-01-31-my-bullet-journal/key.jpg
+[future_log]: /assets/images/2019-01-31-my-bullet-journal/future_log.jpg
+[agenda]: /assets/images/2019-01-31-my-bullet-journal/agenda.jpg
+[sketch]: /assets/images/2019-01-31-my-bullet-journal/skecth.jpg
+[year_pixels]: /assets/images/2019-01-31-my-bullet-journal/year_pixels.PNG
+[habit]: /assets/images/2019-01-31-my-bullet-journal/habits_tracker.PNG
