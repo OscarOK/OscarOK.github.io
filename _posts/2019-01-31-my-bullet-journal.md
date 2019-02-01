@@ -15,7 +15,7 @@ article_header:
 
 Since the first months of 2018, I started using an agenda to organize all my pending events and tasks. As a result, I became more "productive" and "tidy" with my methodology to have things done, I even started to use Calendar by Google for scheduling the events that come up on the week. These habits make me feel like a grown-up man, but a one well organized.
 
-In fact, it was not until the end of 2018  that I discovered the world of Bullet Journal. When I diced to get into this community, I got overwhelmed with all the work and suggestions that were there. For example, I want to add a lot of unnecessary trackers, unnecessary for me, and really arty designs for my own. Even my girl make fun of me for use the year in pixels. So I wrote it down in my year in pixels tracker... That was a blue day.
+In fact, it was not until the end of 2018  that I discovered the world of Bullet Journal. When I decided to get into this community, I got overwhelmed with all the work and suggestions that were there. For example, I want to add a lot of unnecessary trackers, unnecessary for me, and really arty designs for my own. Even my girl make fun of me for use the year in pixels. So I wrote it down in my year in pixels tracker... That was a blue day.
 
 Anyway, I need to define what necessities my bullet journal has to cover. So I made a list:
 
