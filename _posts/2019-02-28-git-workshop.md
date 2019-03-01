@@ -31,4 +31,5 @@ These notes are divided into the followed units:
 _Git is not hard to learn, it just too versatile._
 
 <!--Images References-->
-[workshop]: assets/images/2019-02-28-git-workshop/workshop.jpeg "Me giving the workshop"
+
+[workshop]: /assets/images/2019-02-28-git-workshop/workshop.jpeg "Me giving the workshop"
