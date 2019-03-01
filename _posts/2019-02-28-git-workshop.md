@@ -10,7 +10,7 @@ article_header:
   background_color: '#203028'
   background_image:
     gradient: 'linear-gradient(160deg, rgba(255, 115, 0, 0.5), rgba(14, 48, 108, 0.5))'
-    src: /assets/images/2019-01-28-git-workshop-cover.png
+    src: /assets/images/2019-01-28-git-workshop/cover.png
 ---
 
 This will be a series of posts with the material that I prepared for a git introduction workshop, given to some students of the Autonomous University of Chihuahua.
@@ -31,4 +31,4 @@ These notes are divided into the followed units:
 _Git is not hard to learn, it just too versatile._
 
 <!--Images References-->
-workshop: assets/images/2019-02-28-git-workshop/workshop.jpeg "Me giving the workshop"
+[workshop]: assets/images/2019-02-28-git-workshop/workshop.jpeg "Me giving the workshop"
